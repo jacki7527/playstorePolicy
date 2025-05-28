@@ -1,5 +1,5 @@
 # I - Le Wiki261 Politique de confidentialité 
-*Dernière mise à jour : 7 Octobre 2024*
+*Dernière mise à jour : 28 Mai 2025*
 
 La présente Politique de confidentialité s’applique sur l'application **Le Wiki261**, nous nous engageons à protéger et à respecter votre vie privée en vous expliquant comment nous recueillons, utilisons, partageons et traitons vos renseignements personnels et d’autres personnes en lien avec notre Plateforme.
 
@@ -22,6 +22,9 @@ Nous demandons l'autorisation d'accéder aux fonctions de téléphonie de votre 
 
 ### Camera
 En autorisant l'application à accéder à la caméra de votre appareil, vous pourrez scanner des QR codes afin de simplifier l'accès à des informations spécifiques au sein de l'application. L'utilisation de la caméra est strictement limitée à cette fonctionnalité, et aucune image ou vidéo capturée ne sera collectée ni stockée.
+
+### Stockage et gestion des fichiers
+L’application demande les permissions de lecture (`READ_EXTERNAL_STORAGE`), écriture (`WRITE_EXTERNAL_STORAGE`) et gestion complète des fichiers (`MANAGE_EXTERNAL_STORAGE`) afin de permettre la sauvegarde des QR codes générés directement dans le dossier Pictures de la galerie de votre appareil. Ces autorisations garantissent que les images sont correctement enregistrées, accessibles et visibles via la galerie, conformément aux exigences des versions Android récentes.
 
 # III - Comment nous utilisons vos renseignements
 Nous utilisons les renseignements que nous recueillons de la manière suivante :
